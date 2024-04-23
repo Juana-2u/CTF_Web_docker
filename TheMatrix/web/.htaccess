@@ -1,4 +1,0 @@
-options -Indexes
-Header unset Pragma
-Header unset Cache-Control
-Header unset Expires
